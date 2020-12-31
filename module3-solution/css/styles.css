@@ -58,6 +58,7 @@ body {
 #main-content{
   background-color: gray;
   color: black;
+  margin-bottom: 20px;
 }
 
 /********** Large devices only **********/
@@ -97,6 +98,7 @@ body {
   .container{
     margin-left: 10px;
     margin-right: 10px;
+    margin-bottom: 20px;
   }
   
 }
